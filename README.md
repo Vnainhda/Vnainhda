@@ -38,8 +38,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vnainhda&theme=tokyonight)  
 
 ---
-### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vnainhda&theme=darkhub&no-bg=true&margin-w=10)  
+
 
 
 ### 🚀 Featured Projects  
