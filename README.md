@@ -28,12 +28,19 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Artificial Intelligence](https://img.shields.io/badge/AI-008080?style=for-the-badge&logo=openai&logoColor=white)  
 
-
 ### 📊 GitHub Stats  
-![Vandita's GitHub Stats](https://github.com/Vnainhda)  
-![Top Langs](https://github.com/Vnainhda)  
+
+![Vnainhda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vnainhda&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vnainhda&layout=compact&theme=tokyonight&langs_count=6)  
 
 ---
+### 🚀 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vnainhda&theme=tokyonight)  
+
+---
+### 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vnainhda&theme=darkhub&no-bg=true&margin-w=10)  
+
 
 ### 🚀 Featured Projects  
 🔹 **[🛠️ AI-Powered SEO Optimizer](https://github.com/Vnainhda/Seo_Optimizer)**  
