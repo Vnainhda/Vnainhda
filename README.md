@@ -37,11 +37,7 @@
 ### 🚀 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vnainhda&theme=tokyonight)  
 
----
-### 🏅 LeetCode Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Vnainhda?theme=dark&font=Kanit&ext=contest)](https://leetcode.com/u/vandita2020/)
 
----
 
 ### 🚀 Featured Projects  
 🔹 **[🛠️ AI-Powered SEO Optimizer](https://github.com/Vnainhda/Seo_Optimizer)**  
