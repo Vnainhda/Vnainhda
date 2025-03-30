@@ -30,8 +30,8 @@
 
 
 ### 📊 GitHub Stats  
-![Vandita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanditaPal&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanditaPal&layout=compact&theme=radical)  
+![Vandita's GitHub Stats](https://github.com/Vnainhda)  
+![Top Langs](https://github.com/Vnainhda)  
 
 ---
 
