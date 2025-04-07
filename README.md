@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vandita Pal!  
 
-🚀 **Data Scientist | Data Analyst | Machine Learning & NLP Enthusiast** 
+🚀 **Data Scientist | Data Analyst | Machine Learning Enthusiast** 
 📊 **Skilled in:** Python | SQL | ML/DL | Power BI | Flask | Docker 
 💡 **Experience:** Former **ML & Data Analytics Intern** at **NITI Aayog** | **DMRC Intern (Data Analysis & ECE Work)**  
 
